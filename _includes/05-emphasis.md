@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Can program in *Java*, __HTML__, *C*, **C++, _C_, MATLAB.**
